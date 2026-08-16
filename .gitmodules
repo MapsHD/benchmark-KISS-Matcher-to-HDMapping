@@ -1,0 +1,9 @@
+[submodule "src/KISS-Matcher"]
+	path = src/KISS-Matcher
+	url = https://github.com/MIT-SPARK/KISS-Matcher.git
+[submodule "src/spark-fast-lio"]
+	path = src/spark-fast-lio
+	url = https://github.com/MIT-SPARK/spark-fast-lio.git
+[submodule "src/kiss-matcher-to-hdmapping/src/3rdparty/LASzip"]
+	path = src/kiss-matcher-to-hdmapping/src/3rdparty/LASzip
+	url = https://github.com/LASzip/LASzip.git
